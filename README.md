@@ -1,9 +1,12 @@
 # Hi, Misaka here.
 
-- You can also call me Misaka Qiu
-- software engineer
-- normal college girl
+## Introduction
+
+- software engineer / cyber security
+- A normal college girl
 - Use Asm, C++ and others
 - Also write Python and Java
 
-[![Misaka's GitHub](https://github-readme-stats.vercel.app/api?username=Misakaou)](https://github.com/Misakaou)
+## Contact
+
+- [misakaou@outlook.com](mailto:misakaou@outlook.com) / [PGP Key](https://keybase.io/misakao/pgp_keys.asc?fingerprint=4364fcb36f8a04364bde526b0e3f0fa20d1716d6)
